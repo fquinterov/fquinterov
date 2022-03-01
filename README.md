@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fernando Quintero</h1>
 <h3 align="center">A passionate researcher and master student in engineering with emphasis in electrical and electronics at the Universidad Tecnológica de Bolívar under the supervision of Prof. Andrés Marrugo and Prof. Lenny Romero working at OPI-Lab.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fquinterov&label=Profile%20views&color=0e75b6&style=flat" alt="fquinterov" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fquinterov" alt="fquinterov" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/fquinterov" target="blank"><img src="https://img.shields.io/twitter/follow/fquinterov?logo=twitter&style=for-the-badge" alt="fquinterov" /></a> </p>
-
-- 🔭 I’m currently working on [in my Master thesis about Fringe Pattern Profilometry (FPP) for 3D reconstructions aided by Deep Learning. I am also working on a machine vision and DL system to analyze microscopy images of the corneal endothelium.](https://github.com/fquinterov/dfp-blender)
+- 🔭 I’m currently working on in my Master thesis about Fringe Pattern Profilometry (FPP) for 3D reconstructions aided by Deep Learning. I am also working on a machine vision and DL system to analyze microscopy images of the corneal endothelium. [Here is the project link](https://github.com/fquinterov/dfp-blender)
 
 - 🌱 I’m currently learning **learning Deep Learning applied to Computer Vision and medical image processing.**
 
@@ -33,6 +27,13 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fquinterov&show_icons=true&locale=en" alt="fquinterov" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fquinterov&" alt="fquinterov" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fquinterov&label=Profile%20views&color=0e75b6&style=flat" alt="fquinterov" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fquinterov" alt="fquinterov" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/fquinterov" target="blank"><img src="https://img.shields.io/twitter/follow/fquinterov?logo=twitter&style=for-the-badge" alt="fquinterov" /></a> </p>
+
 
 <!---
 fquinterov/fquinterov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
