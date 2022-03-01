@@ -9,14 +9,14 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/fquinterov](https://github.com/fquinterov)
 
-- 📫 How to reach me **fjquinterov@gmail.com / fquintero@utb.edu.co**
+- 📫 How to reach me: you can contact me through the following e-mails. **fjquinterov@gmail.com / fquintero@utb.edu.co**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/fquinterov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fquinterov" height="30" width="40" /></a>
+<a href="https://instagram.com/yosoyfernandito" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yosoyfernandito" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/fquinterov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fquinterov/" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/fquinterov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/fquinterov" height="30" width="40" /></a>
-<a href="https://instagram.com/yosoyfernandito" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yosoyfernandito" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
