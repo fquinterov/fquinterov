@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **learning Deep Learning applied to Computer Vision and medical image processing.**
 
-- 🤝 I'am working and collaborating on [OPI-Lab](http://opilab.utb.edu.co/)
+- 🤝 I'am working and collaborating on [OPI-Lab](https://twitter.com/opilab_utb) (Optics and image processing laboratory)
 
 - 👨‍💻 All of my projects are available at [https://github.com/fquinterov](https://github.com/fquinterov)
 
