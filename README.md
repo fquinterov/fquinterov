@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on in my Master thesis about Fringe Pattern Profilometry (FPP) for 3D reconstructions aided by Deep Learning. I am also working on a machine vision and DL system to analyze microscopy images of the corneal endothelium. [Here is the project link](https://github.com/fquinterov/dfp-blender)
 
-- 🌱 I’m currently learning **learning Deep Learning applied to Computer Vision and medical image processing**
+- 🌱 I’m currently **learning Deep Learning applied to Computer Vision and medical image processing**
 
 - 🤝 I'am working and collaborating on [OPI-Lab](https://twitter.com/opilab_utb) (Optics and image processing laboratory)
 
